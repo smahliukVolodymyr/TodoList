@@ -1,0 +1,21 @@
+.sorting-field {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.sorting-field button {
+  padding: 12px;
+  border: none;
+  font-weight: 600;
+  border-radius: 5px;
+  color: #fff;
+  background-color: cornflowerblue;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+}
+.sorting-field button:hover {
+  background-color: rgb(61, 97, 164);
+}
+.sorting-field {
+  margin-bottom: 25px;
+}
